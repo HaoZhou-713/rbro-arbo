@@ -1,0 +1,16 @@
+# models & checkpoints
+*_models/
+*.pkl
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.npz
+*.npy
+*.mat
+# notebooks cache
+.ipynb_checkpoints/
+# archives & logs
+*.zip
+*.tar
+*.log
